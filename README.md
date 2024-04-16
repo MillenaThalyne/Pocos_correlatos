@@ -6,7 +6,7 @@ Linguagem de Programação: Python <br>
 Banco de Dados: SQL Server <br>
 > *OBS: Projeto proposto como desafio para vaga de Cientista de Dados na MStar Consulting.*
 ## 2. 📖 Objetivo Central
-Este, consiste projeto consiste em encontrar poços correlatos, ou seja, poços que tenham características muito próximas uma das outras.
+Este projeto consiste em encontrar poços correlatos, ou seja, poços que tenham características muito próximas uma das outras.
 ## 3. 📖 Descrição 
 - Nesse desafio, deve-se criar um modelo de Machine Learning, utilizando a base de dados 'dados_pocos.csv' para, dado uma entrada (com características de um projeto de perfuração de poços) este algoritmo deve exibir uma lista de quatro poços correlatos a este;
 - Além disso, esta base de dados deve ter uma conexão com um banco de dados relacional, responsável por trazê-lo para este ambiente de desenvolvimento.
